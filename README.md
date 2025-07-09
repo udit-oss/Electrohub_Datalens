@@ -1,4 +1,4 @@
-Electrohub_DataLens_Project/
+<pre><code> Electrohub_DataLens_Project/
 ├── 1.Business_Problem/
 │ └── Business_Problem.docx ← problem statement & key questions
 │
@@ -22,7 +22,7 @@ Electrohub_DataLens_Project/
 │ └── Electrohub_DataLens.pbix ← main Power BI report file
 │
 ├── 6.Summary/
-│ └── Electrohub_DataLens_Summary.pptx ← executive slide deck with screenshots & insights
+│ └── Electrohub_DataLens_Summary.pptx ← executive slide deck with screenshots & insights <pre><code>
 
 ## 🚀 Getting Started
 
